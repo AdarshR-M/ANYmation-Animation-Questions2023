@@ -23,6 +23,7 @@ ___Please fill in the fields below otherwise your submission won't be considered
 ## Resources
 
 * [Blender Tutorials](https://www.youtube.com/watch?v=NyJWoyVx_XI&list=PLjEaoINr3zgEq0u2MzVgAaHEBt--xLB6U)
+* [Reference Images](https://drive.google.com/drive/folders/1ljo-5MJaRM05DoTLJUX-pHiLLvXHmhXS)
 * Link to some [donut renders](https://www.reddit.com/r/BlenderDoughnuts/)
 * [Blender Shortcuts](https://www.dropbox.com/s/jg4fs4i8zw5bxt7/Blender\%203.0\%20Shortcuts\%20v1.2.pdf?dl=0)
 * [Nodes 4 Noobs](https://www.youtube.com/playlist?list=PLn3ukorJv4vtnU\_TaZob7QD6Q8d9C9Ki7) : A good introductory video to introduce Nodes, Shaders etc. The first 3 videos will be more than sufficient for recruitment test.
