@@ -13,7 +13,7 @@ ___Please fill in the fields below otherwise your submission won't be considered
 
 ## Instructions
 
-* There are 2 question in the problem statement ```AnimationRecruitments.pdf```. Both the questions are compulsory.
+* There are 2 questions in the problem statement ```AnimationRecruitments.pdf```. Both the questions are compulsory.
 * You are free to use the internet (obviously) and any other resources.
 * There is a folder dedicated for each of the questions. Put all the files related to a question in its folder. There is a ```README.md``` in each of the folders. Put any comments the corresponding ```README.md``` (It is not necessary to mention anything there - you can leave it blank). 
 * If the Blender files are too big, you can upload the files to your Google Drive and put the link in README.md (in Q1, Q2 folders). If you are doing this do not forget to change the permissions to 'anyone with the link can view'.
